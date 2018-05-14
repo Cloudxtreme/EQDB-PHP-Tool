@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/403/trunk/templates/qglobal
+END
+qglobal.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/403/trunk/templates/qglobal/qglobal.tmpl.php
+END
+qglobal.edit.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/352/trunk/templates/qglobal/qglobal.edit.tmpl.php
+END
+qglobal.add.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/352/trunk/templates/qglobal/qglobal.add.tmpl.php
+END

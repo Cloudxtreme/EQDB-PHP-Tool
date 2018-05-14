@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/401/trunk/templates/aa
+END
+aa.editbase.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/401/trunk/templates/aa/aa.editbase.tmpl.php
+END
+aa.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/401/trunk/templates/aa/aa.tmpl.php
+END
+aa_effect.edit.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/391/trunk/templates/aa/aa_effect.edit.tmpl.php
+END
+aa_action.edit.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/391/trunk/templates/aa/aa_action.edit.tmpl.php
+END
+aa.default.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/391/trunk/templates/aa/aa.default.tmpl.php
+END
+aa.searchresults.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/400/trunk/templates/aa/aa.searchresults.tmpl.php
+END
+aa_level.edit.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/391/trunk/templates/aa/aa_level.edit.tmpl.php
+END

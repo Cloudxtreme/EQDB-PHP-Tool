@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/312/trunk/templates/mail
+END
+mail.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/215/trunk/templates/mail/mail.tmpl.php
+END
+mail.create.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/312/trunk/templates/mail/mail.create.tmpl.php
+END
+mail.edit.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/312/trunk/templates/mail/mail.edit.tmpl.php
+END
+mail.view.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/215/trunk/templates/mail/mail.view.tmpl.php
+END
+js.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/312/trunk/templates/mail/js.tmpl.php
+END

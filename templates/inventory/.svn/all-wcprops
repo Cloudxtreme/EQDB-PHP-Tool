@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/455/trunk/templates/inventory
+END
+inventory.player.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/455/trunk/templates/inventory/inventory.player.tmpl.php
+END
+inventory.default.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/423/trunk/templates/inventory/inventory.default.tmpl.php
+END
+inventory.edit.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/427/trunk/templates/inventory/inventory.edit.tmpl.php
+END
+inventory.searchresults.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/423/trunk/templates/inventory/inventory.searchresults.tmpl.php
+END
+inventory.add.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/427/trunk/templates/inventory/inventory.add.tmpl.php
+END

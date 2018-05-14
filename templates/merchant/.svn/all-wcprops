@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/407/trunk/templates/merchant
+END
+npcsbymerchant.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/72/trunk/templates/merchant/npcsbymerchant.tmpl.php
+END
+merchant.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/407/trunk/templates/merchant/merchant.tmpl.php
+END
+merchant.default.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/121/trunk/templates/merchant/merchant.default.tmpl.php
+END
+merchant.edit.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/407/trunk/templates/merchant/merchant.edit.tmpl.php
+END
+item.add.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/407/trunk/templates/merchant/item.add.tmpl.php
+END
+merchant_temp.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/407/trunk/templates/merchant/merchant_temp.tmpl.php
+END
+merchant.searchresults.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/153/trunk/templates/merchant/merchant.searchresults.tmpl.php
+END
+merchant_temp.edit.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/407/trunk/templates/merchant/merchant_temp.edit.tmpl.php
+END
+item_temp.add.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/407/trunk/templates/merchant/item_temp.add.tmpl.php
+END

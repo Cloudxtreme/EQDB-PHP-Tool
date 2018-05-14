@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/429/trunk/templates/keys
+END
+keys.default.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/427/trunk/templates/keys/keys.default.tmpl.php
+END
+keys.edit.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/427/trunk/templates/keys/keys.edit.tmpl.php
+END
+keys.searchresults.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/427/trunk/templates/keys/keys.searchresults.tmpl.php
+END
+keys.add.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/427/trunk/templates/keys/keys.add.tmpl.php
+END
+keys.player.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/429/trunk/templates/keys/keys.player.tmpl.php
+END

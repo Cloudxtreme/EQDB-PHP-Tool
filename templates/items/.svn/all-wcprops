@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/390/trunk/templates/items
+END
+items.default.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/129/trunk/templates/items/items.default.tmpl.php
+END
+items.edit.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/390/trunk/templates/items/items.edit.tmpl.php
+END
+items.searchresults.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/129/trunk/templates/items/items.searchresults.tmpl.php
+END
+items.add.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/390/trunk/templates/items/items.add.tmpl.php
+END
+items.book.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/263/trunk/templates/items/items.book.tmpl.php
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/465/trunk/templates/player
+END
+player.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/465/trunk/templates/player/player.tmpl.php
+END
+js.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/465/trunk/templates/player/js.tmpl.php
+END
+player.default.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/451/trunk/templates/player/player.default.tmpl.php
+END
+player.move.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/465/trunk/templates/player/player.move.tmpl.php
+END
+player.searchresults.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/139/trunk/templates/player/player.searchresults.tmpl.php
+END

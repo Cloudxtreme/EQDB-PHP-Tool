@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/422/trunk/templates/faction
+END
+npcbyprimary.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/298/trunk/templates/faction/npcbyprimary.tmpl.php
+END
+faction.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/366/trunk/templates/faction/faction.tmpl.php
+END
+faction.players.edit.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/261/trunk/templates/faction/faction.players.edit.tmpl.php
+END
+npc_search_results.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/298/trunk/templates/faction/npc_search_results.tmpl.php
+END
+faction.default.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/258/trunk/templates/faction/faction.default.tmpl.php
+END
+faction.edit.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/361/trunk/templates/faction/faction.edit.tmpl.php
+END
+factionmod.edit.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/365/trunk/templates/faction/factionmod.edit.tmpl.php
+END
+faction.players.add.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/261/trunk/templates/faction/faction.players.add.tmpl.php
+END
+factionsearch.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/422/trunk/templates/faction/factionsearch.tmpl.php
+END
+faction.searchresults.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/422/trunk/templates/faction/faction.searchresults.tmpl.php
+END
+factionmod.add.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/365/trunk/templates/faction/factionmod.add.tmpl.php
+END
+faction.players.view.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/261/trunk/templates/faction/faction.players.view.tmpl.php
+END
+faction.add.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/361/trunk/templates/faction/faction.add.tmpl.php
+END
+js.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/365/trunk/templates/faction/js.tmpl.php
+END

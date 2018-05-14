@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/305/trunk/templates/misc
+END
+misc.default.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/153/trunk/templates/misc/misc.default.tmpl.php
+END
+objects.copyver.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/153/trunk/templates/misc/objects.copyver.tmpl.php
+END
+groundspawn.view.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/235/trunk/templates/misc/groundspawn.view.tmpl.php
+END
+traps.add.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/305/trunk/templates/misc/traps.add.tmpl.php
+END
+groundspawns.copyver.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/153/trunk/templates/misc/groundspawns.copyver.tmpl.php
+END
+doors.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/266/trunk/templates/misc/doors.tmpl.php
+END
+forage.edit.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/153/trunk/templates/misc/forage.edit.tmpl.php
+END
+traps.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/235/trunk/templates/misc/traps.tmpl.php
+END
+horses.add.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/153/trunk/templates/misc/horses.add.tmpl.php
+END
+groundspawn.add.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/159/trunk/templates/misc/groundspawn.add.tmpl.php
+END
+fishing.view.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/235/trunk/templates/misc/fishing.view.tmpl.php
+END
+horses.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/235/trunk/templates/misc/horses.tmpl.php
+END
+groundspawn.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/235/trunk/templates/misc/groundspawn.tmpl.php
+END
+traps.delver.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/153/trunk/templates/misc/traps.delver.tmpl.php
+END
+groundspawns.delver.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/153/trunk/templates/misc/groundspawns.delver.tmpl.php
+END
+forage.view.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/235/trunk/templates/misc/forage.view.tmpl.php
+END
+doors.copyver.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/153/trunk/templates/misc/doors.copyver.tmpl.php
+END
+traps.edit.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/303/trunk/templates/misc/traps.edit.tmpl.php
+END
+fishing.add.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/153/trunk/templates/misc/fishing.add.tmpl.php
+END
+traps.copyver.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/153/trunk/templates/misc/traps.copyver.tmpl.php
+END
+objects.add.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/159/trunk/templates/misc/objects.add.tmpl.php
+END
+misc.searchresults.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/8/trunk/templates/misc/misc.searchresults.tmpl.php
+END
+horses.edit.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/153/trunk/templates/misc/horses.edit.tmpl.php
+END
+fishing.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/235/trunk/templates/misc/fishing.tmpl.php
+END
+objects.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/235/trunk/templates/misc/objects.tmpl.php
+END
+forage.add.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/153/trunk/templates/misc/forage.add.tmpl.php
+END
+groundspawn.edit.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/153/trunk/templates/misc/groundspawn.edit.tmpl.php
+END
+forage.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/235/trunk/templates/misc/forage.tmpl.php
+END
+doors.delver.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/153/trunk/templates/misc/doors.delver.tmpl.php
+END
+objects.delver.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/153/trunk/templates/misc/objects.delver.tmpl.php
+END
+doors.edit.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/153/trunk/templates/misc/doors.edit.tmpl.php
+END
+fishing.edit.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/153/trunk/templates/misc/fishing.edit.tmpl.php
+END
+doors.add.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/159/trunk/templates/misc/doors.add.tmpl.php
+END
+objects.edit.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/153/trunk/templates/misc/objects.edit.tmpl.php
+END

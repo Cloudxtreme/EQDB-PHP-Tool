@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/414/trunk/templates/zone
+END
+zone.default.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/351/trunk/templates/zone/zone.default.tmpl.php
+END
+zonepoints.add.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/159/trunk/templates/zone/zonepoints.add.tmpl.php
+END
+zone.edit.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/414/trunk/templates/zone/zone.edit.tmpl.php
+END
+blockedspell.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/235/trunk/templates/zone/blockedspell.tmpl.php
+END
+graveyard.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/235/trunk/templates/zone/graveyard.tmpl.php
+END
+blockedspell.edit.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/351/trunk/templates/zone/blockedspell.edit.tmpl.php
+END
+zonepoints.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/235/trunk/templates/zone/zonepoints.tmpl.php
+END
+graveyard.edit.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/351/trunk/templates/zone/graveyard.edit.tmpl.php
+END
+blockedspell.add.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/351/trunk/templates/zone/blockedspell.add.tmpl.php
+END
+zone.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/414/trunk/templates/zone/zone.tmpl.php
+END
+graveyard.add.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/351/trunk/templates/zone/graveyard.add.tmpl.php
+END
+zonepoints.edit.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/153/trunk/templates/zone/zonepoints.edit.tmpl.php
+END
+graveyard.view.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/153/trunk/templates/zone/graveyard.view.tmpl.php
+END

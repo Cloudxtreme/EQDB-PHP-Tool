@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/457/trunk/templates/spells
+END
+genspells.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/378/trunk/templates/spells/genspells.php
+END
+spells.default.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/162/trunk/templates/spells/spells.default.tmpl.php
+END
+spells.edit.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/457/trunk/templates/spells/spells.edit.tmpl.php
+END
+spells.searchresults.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/351/trunk/templates/spells/spells.searchresults.tmpl.php
+END

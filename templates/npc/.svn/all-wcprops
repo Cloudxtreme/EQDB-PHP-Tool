@@ -1,0 +1,305 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/465/trunk/templates/npc
+END
+factionhit.add.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/318/trunk/templates/npc/factionhit.add.tmpl.php
+END
+factionid.changebyname.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/159/trunk/templates/npc/factionid.changebyname.tmpl.php
+END
+npc.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/465/trunk/templates/npc/npc.tmpl.php
+END
+emotes.npcsbyemote.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/386/trunk/templates/npc/emotes.npcsbyemote.tmpl.php
+END
+npc.changestats.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/172/trunk/templates/npc/npc.changestats.tmpl.php
+END
+emotes.set.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/386/trunk/templates/npc/emotes.set.tmpl.php
+END
+traptemplate.edit.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/153/trunk/templates/npc/traptemplate.edit.tmpl.php
+END
+factionid.add.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/153/trunk/templates/npc/factionid.add.tmpl.php
+END
+npc.add.equipmentset.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/303/trunk/templates/npc/npc.add.equipmentset.tmpl.php
+END
+nextid.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/396/trunk/templates/npc/nextid.tmpl.php
+END
+npc.changelevel.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/440/trunk/templates/npc/npc.changelevel.tmpl.php
+END
+npc.zdefault.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/153/trunk/templates/npc/npc.zdefault.tmpl.php
+END
+adventureid.edit.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/153/trunk/templates/npc/adventureid.edit.tmpl.php
+END
+dyetemplate.edit.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/336/trunk/templates/npc/dyetemplate.edit.tmpl.php
+END
+merchantid.edit.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/307/trunk/templates/npc/merchantid.edit.tmpl.php
+END
+npc.edit.factionid.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/65/trunk/templates/npc/npc.edit.factionid.tmpl.php
+END
+emotes.addentry.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/386/trunk/templates/npc/emotes.addentry.tmpl.php
+END
+npc.searchresults.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/153/trunk/templates/npc/npc.searchresults.tmpl.php
+END
+emotes.list.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/386/trunk/templates/npc/emotes.list.tmpl.php
+END
+npc.factionchange.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/159/trunk/templates/npc/npc.factionchange.tmpl.php
+END
+nextid.result.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/396/trunk/templates/npc/nextid.result.tmpl.php
+END
+npc.add.equipmentset_entry.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/304/trunk/templates/npc/npc.add.equipmentset_entry.tmpl.php
+END
+js.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/341/trunk/templates/npc/js.tmpl.php
+END
+factionhit.searchresults.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/153/trunk/templates/npc/factionhit.searchresults.tmpl.php
+END
+emotes.edit.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/386/trunk/templates/npc/emotes.edit.tmpl.php
+END
+emotes.add.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/386/trunk/templates/npc/emotes.add.tmpl.php
+END
+factionid.change.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/158/trunk/templates/npc/factionid.change.tmpl.php
+END
+npc.edit.equipmentset.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/303/trunk/templates/npc/npc.edit.equipmentset.tmpl.php
+END
+factionid.searchresults.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/153/trunk/templates/npc/factionid.searchresults.tmpl.php
+END
+npc.addbylevel.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/254/trunk/templates/npc/npc.addbylevel.tmpl.php
+END
+npc.edit.pet.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/303/trunk/templates/npc/npc.edit.pet.tmpl.php
+END
+factionprimary.search.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/153/trunk/templates/npc/factionprimary.search.tmpl.php
+END
+primaryfaction.search.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/153/trunk/templates/npc/primaryfaction.search.tmpl.php
+END
+factionid.changebyid.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/153/trunk/templates/npc/factionid.changebyid.tmpl.php
+END
+npc.editlevel.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/437/trunk/templates/npc/npc.editlevel.tmpl.php
+END
+factionhit.search.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/153/trunk/templates/npc/factionhit.search.tmpl.php
+END
+npc.add.pet.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/303/trunk/templates/npc/npc.add.pet.tmpl.php
+END
+factionid.edit.name.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/153/trunk/templates/npc/factionid.edit.name.tmpl.php
+END
+npc.default.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/386/trunk/templates/npc/npc.default.tmpl.php
+END
+dyetemplate.add.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/153/trunk/templates/npc/dyetemplate.add.tmpl.php
+END
+npc.edit.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/465/trunk/templates/npc/npc.edit.tmpl.php
+END
+factionid.search.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/153/trunk/templates/npc/factionid.search.tmpl.php
+END
+npc.add.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/465/trunk/templates/npc/npc.add.tmpl.php
+END
+npc.edit.equipmentset_entry.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/304/trunk/templates/npc/npc.edit.equipmentset_entry.tmpl.php
+END
+npc.pet.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/304/trunk/templates/npc/npc.pet.tmpl.php
+END
+npc.changelevelver.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/440/trunk/templates/npc/npc.changelevelver.tmpl.php
+END
+factionid.changebyrace.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/159/trunk/templates/npc/factionid.changebyrace.tmpl.php
+END
+factionhit.edit.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/318/trunk/templates/npc/factionhit.edit.tmpl.php
+END
+factionprimary.searchresults.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/153/trunk/templates/npc/factionprimary.searchresults.tmpl.php
+END
+primaryfaction.searchresults.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/153/trunk/templates/npc/primaryfaction.searchresults.tmpl.php
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/235/trunk/templates/spellset
+END
+spellset.edit.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/153/trunk/templates/spellset/spellset.edit.tmpl.php
+END
+spellset.change.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/158/trunk/templates/spellset/spellset.change.tmpl.php
+END
+spell.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/235/trunk/templates/spellset/spell.tmpl.php
+END
+spellset.changebyclass.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/167/trunk/templates/spellset/spellset.changebyclass.tmpl.php
+END
+spellset.add.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/153/trunk/templates/spellset/spellset.add.tmpl.php
+END
+spellset.masschange.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/167/trunk/templates/spellset/spellset.masschange.tmpl.php
+END
+spell.edit.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/153/trunk/templates/spellset/spell.edit.tmpl.php
+END
+spell.searchresults.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/templates/spellset/spell.searchresults.tmpl.php
+END
+spell.add.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/153/trunk/templates/spellset/spell.add.tmpl.php
+END
+spellset.changebyid.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/153/trunk/templates/spellset/spellset.changebyid.tmpl.php
+END
+spellset.changebyname.tmpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/167/trunk/templates/spellset/spellset.changebyname.tmpl.php
+END
