@@ -1,0 +1,9 @@
+# automatic eol conversions
+* text=auto
+
+*.php text
+*.html text
+
+*.vcproj text merge=union
+*.csproj text merge=union
+*.sln text merge=union eol=crlf
