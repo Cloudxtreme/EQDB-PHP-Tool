@@ -2,9 +2,9 @@
 error_reporting(E_ALL & ~E_NOTICE & ~E_WARNING);
 // Database Information:
 $dbhost = 'localhost';
-$dbuser = 'cr0ss';
-$dbpass = 'N4i8c3k4';
-$db = 'nostalgia';
+$dbuser = 'user';
+$dbpass = 'password';
+$db = 'peq';
 $mysql_class = 'mysqli'; // Use mysql or mysqli
 
 /*  Limit zone lists to a specified expansion
